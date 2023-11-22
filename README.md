@@ -1,16 +1,25 @@
-# ekirana
+# Ekirana App
 
-A new Flutter project.
+Ekirana is a mobile application built with Flutter and Firebase, designed to provide a seamless and efficient grocery shopping experience.
+
+## Features
+
+- **User Authentication:** Secure user authentication with Firebase Authentication.
+- **Product Listings:** Browse and search for a wide range of grocery products.
+- **Shopping Cart:** Add products to the cart and manage your shopping list.
+- **Order Management:** Place orders, view order history, and track order status.
+- **Real-time Updates:** Receive real-time updates on order status and product availability.
+- **User Profile:** Manage personal information and preferences.
+
+## Technologies Used
+
+- **Flutter:** A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Firebase:** A comprehensive mobile development platform provided by Google, including authentication, database, and cloud functions.
+- **Dart:** The programming language optimized for building mobile, desktop, server, and web applications.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/ekirana-app.git
+   cd ekirana-app
