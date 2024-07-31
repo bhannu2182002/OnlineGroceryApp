@@ -1,6 +1,6 @@
-# Ekirana App
+# Online Grocery App
 
-Ekirana is a mobile application built with Flutter and Firebase, designed to provide a seamless and efficient grocery shopping experience.
+Online Grocery App is a mobile application built with Flutter and Firebase, designed to provide a seamless and efficient grocery shopping experience.
 
 ## Features
 
